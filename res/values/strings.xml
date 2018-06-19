@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--  Main  -->
+    <string name="app_name">МP3 Загрузки</string>
+    <string name="market_url">com.euroasiamp3.ru</string>
+    <string name="footer_message">Вы запускаете V1.0.6 MP3 Downloader</string>
+    
+    <!-- EULA -->
+    <string name="eula">
+        Официальное разрешение на использование данного программного обеспечения ограничивается использованием аудио файлов, находящихся в свободном доступе на общественном ресурсе! Используя данное программное обеспечение, тем самым вы подтверждаете свое согласие соблюдать все условия и сроки, как указано в Законах страны вашего проживания и Google Android Market. Программное обеспечение является веб-приложением с простым интерфейсом и Euro Asia Singapore не несет ответственности в случае его неправильного использования. Незаконное использование данного приложения строго запрещено. Только Вы несете ответственность за свои действия.
+    </string>
+    
+    <!-- Free Apps & Offers Settings -->
+    <string name="btn_offers_name">видео</string>
+	<string name="topappsurl">http://freemp3musicdownload.mobi/videos/</string> <!-- For Free App Offers -->
+	
+	<!-- Ad Mobs Banner Ads ID -->
+	<string name="admobBID">a1509c754789a61</string>
+	
+<!--  Languages -->
+    <!-- Content Descriptions -->
+    <string name="logo_icon_desc">Home Button</string>
+    <string name="action_search_desc">Search Button</string>
+    
+    <!-- Buttons -->
+    <string name="btn_search_name">Поиск</string>
+    <string name="btn_topten_name">песни</string>
+    <string name="btn_downloads_name">Загрузки</string>
+    <string name="btn_rate_name">Оценить</string>
+    <string name="btn_share_name">Поделиться</string>
+    <string name="btn_cancel_name">Отменить</string>
+    <string name="download_song">Скачать песню</string>
+    <string name="share_song">Поделиться песней</string>
+    
+    <!-- Edit Texts -->
+    <string name="edittext_search_hint">Введите название песни или исполнителя</string>
+    
+    <!-- Names -->
+    <string name="no_results">Результаты не найдены</string>
+    <string name="error_results">Ошибка при загрузке</string>
+    <string name="no_active">Похоже, у вас отсутствует подключение к Интернету или же у вас слабый сигнал. Пожалуйста, включите Wi-Fi, введите данные и попробуйте еще раз.</string>
+    
+    <!-- Share Language -->
+    <string name="checkout">Прослушать эту песню</string>
+    <string name="dlmessage">Закачайте эту песню :)</string>
+    
+    <!-- Toast Make -->
+    <string name="failedloading">Загрузка песни не удалась. Попробуйте еще раз.</string>
+    <string name="addedqueue">Скачать Добавлено в очередь</string>
+</resources>
